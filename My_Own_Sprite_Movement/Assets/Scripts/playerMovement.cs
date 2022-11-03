@@ -31,7 +31,7 @@ public class playerMovement : MonoBehaviour
         }
         else
         {
-            myAnimator.SetBool("Iswakling", false);
+            myAnimator.SetBool("Iswalking", false);
         }
     }
 
